@@ -3,10 +3,8 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I'm a Senior Computational Biologist in the Satija Lab at the New York Genome Center. 
 
-## Current Interests and Projects:
+I did my PhD studies in the Department of Computer Science at Johns Hopkins University advised by Mike Schatz and Ben Langmead. I contributed to many projects in computational genomics, including those on my Publications page. 
 
-- Website Design
-- [GitHub Pages](http://laderast.github.io)
-- Academia
+![Introduction image](images/introduction_visual.png)
