@@ -1,20 +1,20 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Biographical Website of Charlotte Darby
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Charlotte Darby
   avatar: bio-photo.jpg
   bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  email: cdarby@jhu.edu
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  twitter: ChaDarby
+  linkedin: charlottedarby
+  github: cdarby
+  orcid: 0000-0003-2195-5300 # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
   google:
