@@ -7,8 +7,8 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Charlotte Darby
-  avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
+  avatar: charlottedarby.PNG
+  bio: "PhD, Computer Science (Johns Hopkins University, 2020)"
   email: cdarby@jhu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: ChaDarby
