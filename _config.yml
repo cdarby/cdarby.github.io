@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Biographical Website of Charlotte Darby
+title: Charlotte Darby - Homepage
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: 9QnOnLsAAAAJ #id
   facebook: #username
   instagram: #username
   bing-verify:
